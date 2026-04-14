@@ -1,4 +1,10 @@
-# LedgerFlow
+## 📸 Screenshots
+<img width="1833" height="637" alt="6" src="https://github.com/user-attachments/assets/7ceab250-0851-495b-a1f3-e5dcd74a7329" />
+<img width="1820" height="872" alt="5" src="https://github.com/user-attachments/assets/4e9241e0-a8b7-4326-91a3-e8adb16864f1" />
+<img width="1806" height="746" alt="3" src="https://github.com/user-attachments/assets/179e3bc9-3fd8-4bfb-99de-7eb4cf8d2614" />
+<img width="1817" height="682" alt="2" src="https://github.com/user-attachments/assets/0028c714-03a2-428a-b0e5-430d19ff57a6" />
+<img width="1445" height="726" alt="1" src="https://github.com/user-attachments/assets/a874b239-96e9-4ea1-9ce9-1330c952e317" />
+
 
 ## Introduction
 
