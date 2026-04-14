@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtj5HpE9q2k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarcSih\\source\\repos\\LedgerFlow\\LedgerFlow\\LedgerFlow.Application\\LedgerFlow.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.0-preview.2.25163.8\\microsoft.entityframeworkcore.10.0.0-preview.2.25163.8.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.0-preview.2.25163.8\\microsoft.entityframeworkcore.abstractions.10.0.0-preview.2.25163.8.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.0-preview.2.25163.2\\microsoft.extensions.caching.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.0-preview.2.25163.2\\microsoft.extensions.caching.memory.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.5\\microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0-preview.2.25163.2\\microsoft.extensions.dependencyinjection.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.extensions.logging\\10.0.0-preview.2.25163.2\\microsoft.extensions.logging.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0-preview.2.25163.2\\microsoft.extensions.logging.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.extensions.options\\10.0.0-preview.2.25163.2\\microsoft.extensions.options.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\MarcSih\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "LedgerFlow.Application depends on Microsoft.EntityFrameworkCore (>= 10.0.0-preview.1.25081.3) but Microsoft.EntityFrameworkCore 10.0.0-preview.1.25081.3 was not found. Microsoft.EntityFrameworkCore 10.0.0-preview.2.25163.8 was resolved instead.",
+      "projectPath": "C:\\Users\\MarcSih\\source\\repos\\LedgerFlow\\LedgerFlow\\LedgerFlow.Application\\LedgerFlow.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\MarcSih\\source\\repos\\LedgerFlow\\LedgerFlow\\LedgerFlow.Application\\LedgerFlow.Application.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

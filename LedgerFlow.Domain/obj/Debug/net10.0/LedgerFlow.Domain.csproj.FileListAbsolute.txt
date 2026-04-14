@@ -1,0 +1,11 @@
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\bin\Debug\net10.0\LedgerFlow.Domain.deps.json
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\bin\Debug\net10.0\LedgerFlow.Domain.dll
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\bin\Debug\net10.0\LedgerFlow.Domain.pdb
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\obj\Debug\net10.0\LedgerFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\obj\Debug\net10.0\LedgerFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\obj\Debug\net10.0\LedgerFlow.Domain.AssemblyInfo.cs
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\obj\Debug\net10.0\LedgerFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\obj\Debug\net10.0\LedgerFlow.Domain.dll
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\obj\Debug\net10.0\refint\LedgerFlow.Domain.dll
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\obj\Debug\net10.0\LedgerFlow.Domain.pdb
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Domain\obj\Debug\net10.0\ref\LedgerFlow.Domain.dll

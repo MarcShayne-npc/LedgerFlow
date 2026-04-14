@@ -1,0 +1,240 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LedgerFlow.Application/1.0.0": {
+        "dependencies": {
+          "LedgerFlow.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "10.0.0-preview.2.25163.8",
+          "Microsoft.Extensions.Configuration.Abstractions": "10.0.5",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5"
+        },
+        "runtime": {
+          "LedgerFlow.Application.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore/10.0.0-preview.2.25163.8": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "10.0.0-preview.2.25163.8",
+          "Microsoft.Extensions.Caching.Memory": "10.0.0-preview.2.25163.2",
+          "Microsoft.Extensions.Logging": "10.0.0-preview.2.25163.2"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.EntityFrameworkCore.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.16308"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/10.0.0-preview.2.25163.8": {
+        "runtime": {
+          "lib/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.16308"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.Abstractions/10.0.0-preview.2.25163.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "10.0.5"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.16302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.Memory/10.0.0-preview.2.25163.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "10.0.0-preview.2.25163.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.0-preview.2.25163.2",
+          "Microsoft.Extensions.Options": "10.0.0-preview.2.25163.2",
+          "Microsoft.Extensions.Primitives": "10.0.5"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Caching.Memory.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.16302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/10.0.5": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "10.0.5"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/10.0.0-preview.2.25163.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.16302"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.5": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/10.0.0-preview.2.25163.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "10.0.0-preview.2.25163.2",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.0-preview.2.25163.2",
+          "Microsoft.Extensions.Options": "10.0.0-preview.2.25163.2"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.16302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/10.0.0-preview.2.25163.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.16302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/10.0.0-preview.2.25163.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.5",
+          "Microsoft.Extensions.Primitives": "10.0.5"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.16302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/10.0.5": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      },
+      "LedgerFlow.Domain/1.0.0": {
+        "runtime": {
+          "LedgerFlow.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LedgerFlow.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore/10.0.0-preview.2.25163.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L82qytr8lFY6PDLuITQvjcYeSL3n0UeEInB17LzL4tZf5BuamaSWIpgy2/Nv0WP+MGqE6TlGHi8ju1YeqxxSuw==",
+      "path": "microsoft.entityframeworkcore/10.0.0-preview.2.25163.8",
+      "hashPath": "microsoft.entityframeworkcore.10.0.0-preview.2.25163.8.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/10.0.0-preview.2.25163.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IB73uhrgpW/s68MapIA3fCF+g4fog5/Z/JbGOQIdZkQxxfLXqpgOoo7bAP9CZbFb5WHZZA1CZ7pstA49tMmoLg==",
+      "path": "microsoft.entityframeworkcore.abstractions/10.0.0-preview.2.25163.8",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.10.0.0-preview.2.25163.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Abstractions/10.0.0-preview.2.25163.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w7fe95lmqVfx0Ywx91A2wBhTHsf9PTrK0Sbf+jR1tqQ/oDv3x5xSEXG1J1stuxMuWEvhds/829cJidAaoDCv3g==",
+      "path": "microsoft.extensions.caching.abstractions/10.0.0-preview.2.25163.2",
+      "hashPath": "microsoft.extensions.caching.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Memory/10.0.0-preview.2.25163.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-agq08XrECunxLkg2k3SyoduTFIHzsmzKy6W6Vm8nPCmWJ4UBmXum0H3NgddC+ekY73fppV5cQQBSv86PT3mcuQ==",
+      "path": "microsoft.extensions.caching.memory/10.0.0-preview.2.25163.2",
+      "hashPath": "microsoft.extensions.caching.memory.10.0.0-preview.2.25163.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P09QpTHjqHmCLQOTC+WyLkoRNxek4NIvfWt+TnU0etoDUSRxcltyd6+j/ouRbMdLR0j44GqGO+lhI2M4fAHG4g==",
+      "path": "microsoft.extensions.configuration.abstractions/10.0.5",
+      "hashPath": "microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/10.0.0-preview.2.25163.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-96FojyfY5o1DM4eNgoor60KLrYUOfGhYvyfYW/ShosdmBdhUWjARaEP+6uFgLnF3wHQHFD1OJme9p0Hm8sxQrg==",
+      "path": "microsoft.extensions.dependencyinjection/10.0.0-preview.2.25163.2",
+      "hashPath": "microsoft.extensions.dependencyinjection.10.0.0-preview.2.25163.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iVMtq9eRvzyhx8949EGT0OCYJfXi737SbRVzWXE5GrOgGj5AaZ9eUuxA/BSUfmOMALKn/g8KfFaNQw0eiB3lyA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.5",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging/10.0.0-preview.2.25163.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WLwsn8YsRw0LlFJtSV17311MzrosOEi6oo+Uazvg0lC/z0A0p/7YaYShykqXb0TTC7sKu+HOzo5GoL3QzyubGw==",
+      "path": "microsoft.extensions.logging/10.0.0-preview.2.25163.2",
+      "hashPath": "microsoft.extensions.logging.10.0.0-preview.2.25163.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/10.0.0-preview.2.25163.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MeBgGWgPEbW7iSnOnr58+cXRoJ+JkTvLQCipzZa/p+4FDvHH3TNlmkGhMrNgMo5LuYrQm/2EdS2KeFyJ5JNS0A==",
+      "path": "microsoft.extensions.logging.abstractions/10.0.0-preview.2.25163.2",
+      "hashPath": "microsoft.extensions.logging.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/10.0.0-preview.2.25163.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CbGoSqTgTqqa37yqaM3Dw15Ms19FONa4gln+2MnZnRewzrqXk2/hEsE+mKqM+tufJM++hZQDHuwpsHXokx+EUQ==",
+      "path": "microsoft.extensions.options/10.0.0-preview.2.25163.2",
+      "hashPath": "microsoft.extensions.options.10.0.0-preview.2.25163.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/HUHJ0tw/LQvD0DZrz50eQy/3z7PfX7WWEaXnjKTV9/TNdcgFlNTZGo49QhS7PTmhDqMyHRMqAXSBxLh0vso4g==",
+      "path": "microsoft.extensions.primitives/10.0.5",
+      "hashPath": "microsoft.extensions.primitives.10.0.5.nupkg.sha512"
+    },
+    "LedgerFlow.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

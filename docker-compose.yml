@@ -1,0 +1,23 @@
+services:
+  sql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "Your_password123"
+    ports:
+      - "1433:1433"
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: "Server=sql,1433;Database=LedgerFlow;User Id=sa;Password=Your_password123;TrustServerCertificate=True;MultipleActiveResultSets=true"
+      Jwt__Issuer: LedgerFlow
+      Jwt__Audience: LedgerFlowClients
+      Jwt__SigningKey: "CHANGE_ME_DOCKER_USE_LONG_SECRET_KEY_AT_LEAST_32_CHARS!!"
+    ports:
+      - "8080:8080"
+    depends_on:
+      - sql

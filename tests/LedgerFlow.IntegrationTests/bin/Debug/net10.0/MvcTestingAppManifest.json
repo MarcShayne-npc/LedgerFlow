@@ -1,0 +1,6 @@
+{
+  "LedgerFlow.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MarcSih\\source\\repos\\LedgerFlow\\LedgerFlow\\LedgerFlow.Api",
+  "LedgerFlow.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MarcSih\\source\\repos\\LedgerFlow\\LedgerFlow\\LedgerFlow.Application",
+  "LedgerFlow.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MarcSih\\source\\repos\\LedgerFlow\\LedgerFlow\\LedgerFlow.Domain",
+  "LedgerFlow.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MarcSih\\source\\repos\\LedgerFlow\\LedgerFlow\\LedgerFlow.Infrastructure"
+}

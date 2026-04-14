@@ -1,0 +1,15 @@
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\LedgerFlow.Application.csproj.AssemblyReference.cache
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\LedgerFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\LedgerFlow.Application.AssemblyInfoInputs.cache
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\LedgerFlow.Application.AssemblyInfo.cs
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\LedgerFlow.Application.csproj.CoreCompileInputs.cache
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\bin\Debug\net10.0\LedgerFlow.Application.deps.json
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\bin\Debug\net10.0\LedgerFlow.Application.dll
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\bin\Debug\net10.0\LedgerFlow.Application.pdb
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\bin\Debug\net10.0\LedgerFlow.Domain.dll
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\bin\Debug\net10.0\LedgerFlow.Domain.pdb
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\LedgerFl.C1207FE1.Up2Date
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\LedgerFlow.Application.dll
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\refint\LedgerFlow.Application.dll
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\LedgerFlow.Application.pdb
+C:\Users\MarcSih\source\repos\LedgerFlow\LedgerFlow\LedgerFlow.Application\obj\Debug\net10.0\ref\LedgerFlow.Application.dll
